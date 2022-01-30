@@ -1,3 +1,2 @@
 # Damaged Parasites
-Some mathematical models for exploring the mechanism of artemisinin resistance.
-
+An improved pharmacometric model for artesunate treatment of falciparum malaria
