@@ -238,7 +238,7 @@ functions{
   }
   
 
-  // maing funciton of the model
+  // main funciton of the model
   // the parasites from the susceptible state will be marked as injuted based on the Eff function
   // and then will be moved to the Injured state.
   // At the injurd state, the parasites can be retunred either to the susceptible state or the dead state.
