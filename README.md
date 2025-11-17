@@ -1,7 +1,31 @@
-# Damaged Parasites
-An improved pharmacometric model for artesunate treatment of falciparum malaria
+## Overview
 
-	
+This repository contains the code used in the publication:
+
+**An artesunate pharmacometric model to explain therapeutic responses in *falciparum* malaria**  
+Saralamba S. *et al.*  
+*Journal of Antimicrobial Chemotherapy*, Volume 78, Issue 9, September 2023, Pages 2192–2202  
+[https://doi.org/10.1093/jac/dkad219](https://doi.org/10.1093/jac/dkad219)
+
+## Citation
+
+If you use this code in your work, please cite the original publication:
+
+Saralamba S, et al. *An artesunate pharmacometric model to explain therapeutic responses in falciparum malaria.*  
+Journal of Antimicrobial Chemotherapy. 2023;78(9):2192–2202.  
+doi:[10.1093/jac/dkad219](https://doi.org/10.1093/jac/dkad219)
+
+You may also cite this repository directly:
+
+@misc{DamagedParasites, 
+author = {Saralamba, S. and collaborators}, 
+title = {DamagedParasites: Code for artemisinin resistance mathematical model}, 
+year = {2023}, 
+publisher = {GitHub}, 
+journal = {GitHub repository}, 
+howpublished = {\url{https://github.com/slphyx/DamagedParasites}} }
+
+## Files	
 	|- C# -
 	|     |- DamagedParasites_C#.zip  => the proposed model written in C#
 	|
